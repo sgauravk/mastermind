@@ -1,0 +1,15 @@
+.color {
+    width: 8%;
+    height: 70%;
+    border-radius: 50%;
+	background: black;
+	box-shadow: inset 0 0 11px 2px grey;
+}
+
+.resultSection {
+    width: 2.5%;
+    height: 25%;
+    margin-left: -10px;
+    border-radius: 50%;
+	box-shadow: 0 0 4px 2px grey;
+}
